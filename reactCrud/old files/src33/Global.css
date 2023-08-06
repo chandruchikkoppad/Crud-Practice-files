@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbarBlock{
+    width: 100%;
+    background-color: blue;
+    color: white;
+    height: 70px;
+}
+
+#navbarBlock >article{
+    width: 90%;
+    display: flex;
+    margin: 0 auto;
+    height: inherit;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.MenuBlock nav ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
+.MenuBlock nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    background-color: rgb(83, 186, 241);
+    font-weight: bold;
+}
+
+.MenuBlock nav ul li a:hover{
+    background-color: red;
+}
+
+
+
+
+
+
+

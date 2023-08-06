@@ -1,0 +1,25 @@
+{
+  "employees": [
+    {
+      "emp_name": "Manoj",
+      "emp_salary": "25000",
+      "emp_designation": "BE",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "emp_name": "Madappa",
+      "emp_salary": "1000000",
+      "emp_designation": "api_dev",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "emp_name": "Shreyas",
+      "emp_salary": "1000000",
+      "emp_designation": "frontend_dev",
+      "gender": "male",
+      "id": 3
+    }
+  ]
+}

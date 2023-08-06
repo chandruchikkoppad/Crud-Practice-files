@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "rohith",
+      "adress": "london",
+      "email": "rr@gmail.com",
+      "contact": "123456789"
+    },
+     {
+      "id": 1,
+      "name": "ram",
+      "adress": "london",
+      "email": "rr@gmail.com",
+      "contact": "123456789"
+    },
+     {
+      "id": 1,
+      "name": "rahul",
+      "adress": "london",
+      "email": "rr@gmail.com",
+      "contact": "123456789"
+    }
+  ]
+}

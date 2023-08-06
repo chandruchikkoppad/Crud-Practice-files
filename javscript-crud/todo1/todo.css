@@ -1,0 +1,82 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.94);
+}
+section{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#fff;
+}
+
+form{
+    height: 100px;
+    width: 50%;
+    margin: 10px auto;
+    text-align: center;
+    background-color: aquamarine;
+    border: 1px solid black;
+    border-radius: 2% 20px 2% 20px;
+}
+#text1{
+    height: 40px;
+    width: 300px;
+    margin: 5px;
+    font-size: 15px;
+    padding-left: 10px;
+    border-radius: 20px;
+    border: 2px solid blue;
+    background-color: lightblue;
+}
+#btn{
+    padding: 6px 15px;
+    background-color: green;
+    color: #fff;
+    border-radius: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+ul{
+    margin: 20px;
+
+    width: 50%;
+    height: 50vh;
+    text-align: center;
+    display: inline;
+}
+li{
+    list-style: none;
+}
+#cls-input{
+    width: 50%;
+    padding: 12px 40px;
+    margin-top: 1%;
+    background-color: lightgray;
+    border-radius: 5px 5px
+}
+.btn1{
+    padding: 6px 15px;
+    background-color:orange;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.btn2{
+    padding: 6px 10px;
+    background-color: red;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+}
